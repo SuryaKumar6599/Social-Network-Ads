@@ -1,4 +1,4 @@
-# Machine Learning Model Comparison and Hyperparameter Tuning
+# Machine Learning Model Comparison 
 
 This repository contains a Python script for comparing the performance of several machine learning models (Support Vector Machine, Gradient Boosting, Decision Tree, and Random Forest) using a dataset from 'Social_Network_Ads.csv'. It also includes hyperparameter tuning for the Random Forest model using Grid Search.
 
